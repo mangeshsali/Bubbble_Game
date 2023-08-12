@@ -96,9 +96,9 @@ body {
 
 .play-ground {
   border-radius: 10px;
-  padding: 25px 18px;
+  padding: 25px 14px;
   /* justify-content: space-between; */
-  gap: 49px;
+  gap: 40px;
   display: flex;
   flex-wrap: wrap;
   background-color: rgb(255, 255, 255);
